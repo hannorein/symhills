@@ -1,0 +1,6 @@
+This is a simple symplectic integrator for Hill's equation.
+It is based on http://arxiv.org/abs/0908.2269.
+
+Hanno Rein 2010
+hanno@hanno-rein.de
+University of Cambridge
